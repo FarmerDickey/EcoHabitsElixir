@@ -4,6 +4,10 @@
 **Instituição:** UNIFOR  
 **Tecnologia:** Elixir + Phoenix Framework
 
+Alunos;
+1.Pablo Amorim Dornelles, matrícula: 2315750
+2.Gustavo Gusmão, matrícula: 
+
 ---
 
 ## Visão Geral
